@@ -1,16 +1,16 @@
 {
-    "projects": [
-        {
-            "id": 1, 
-            "title": "Create new homepage banner",
-            "details": "Update the banner visibility and text for user",
-            "complete": false
-        },
-        {
-            "id": 2, 
-            "title": "Create marketing mails",
-            "details": "Create marketing mails",
-            "complete": true
-        }
-    ]
+  "projects": [
+    {
+      "id": "1",
+      "title": "Create new homepage banner",
+      "details": "Update the banner visibility and text for user",
+      "complete": false
+    },
+    {
+      "id": "2",
+      "title": "Create marketing mails",
+      "details": "Create marketing mails",
+      "complete": false
+    }
+  ]
 }
